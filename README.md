@@ -1,5 +1,8 @@
  <img src="images/david_sokoya_bd.jpeg" width="100%" alt="David Sokoya"/>
-
+<h1 align="center">Hi, I'm David Sokoya </h1>
+<p align="center">
+  Software Engineer • Full-Stack • AI • Automation • Embedded Systems
+</p>
 <br>
 <p align="center">
   <a href="https://davidsokoya.com/" target="_blank">
@@ -18,85 +21,273 @@
 
 I build and improve software to enhance user experiences, focusing on streamlining business processes. My passion for learning drives me to optimize systems, knowing that small improvements can significantly impact user satisfaction.
 
-See [my website](https://davidsokoya.com) for more information!
-
-
-<h1 align="center">Projects</h1>
-<table bordercolor="#66b2b2">
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Beckfort</h3>
-        <br />
-        <a target="_blank" href="https://beckfort.com/">
-            <img src="images/beckfort.gif" width="100%" alt="Beckfort Escrow payment"/>
-        </a>
-        <br />
-        <p align="center">
-  <a href="https://beckfort.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Javascript, Bootstrap, Sass, & Node.js</strong> - Platform that securely holds payments between buyers and sellers until both fulfill their agreement, ensuring safe and fraud-free transactions</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Lea's Beauty"</h3>
-        <br />
-      <a target="_blank" href="https://github.com/DavidSokoya/leasbeauty">
-            <img src="images/lea.gif" width="100%"  alt="Lea's beauty"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/DavidSokoya/leasbeauty" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://github.com/DavidSokoya/leasbeauty" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Javascript Nodejs, React, MongoDB, TailwindCSS</strong> - Full-stack app that allows customers to book appointments with hairstylists and beauty professionals. </p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">David Sokoya</h3>
-      <br />
-        <a target="_blank" href="https://davidsok.netlify.app/">
-          <img src="images/david_sokoya_pweb.gif" width="100%" alt="Portfolio"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/DavidSokoya/portfolio" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://davidsok.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>ASTRO, HTML5, CSS3, & Javascript</strong> - Discover My Work: Explore my portfolio, featuring innovative projects and easy ways to connect with me.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Digital Amazonite</h3>
-        <br />
-        <a target="_blank" href="https://github.com/DavidSokoya/amazonite">
-          <img src="images/amazonite.gif" width="100%" alt="Matching Cards"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/DavidSokoya/amazonite" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://github.com/DavidSokoya/amazonite" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>ASTRO, HTML5, CSS3, NodeJS, & MongoDB</strong> - A platform that equips young girls with essential digital skills and entrepreneurship knowledge through cohort based learning.</p>
-    </td>
-  </tr>
+<h2 align="center">Featured Projects</h2>
+<table width="100%" cellspacing="0" cellpadding="14">
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">EleKtroease</h3>
+<p align="center">
+<a href="#">
+<img src="images/electroease.png"
+style="max-width:100%; height:auto; border-radius:12px;"
+alt="Electroease"/>
+</a>
+</p>
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+<p align="center">
+<strong>JavaScript · Node.js · MongoDB</strong><br/>
+Electricity billing & smart automation platform.
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">FarmMoni</h3>
+<p align="center">
+<a href="#">
+<img src="assets/images/farmmoni.png"
+style="max-width:100%; height:auto; border-radius:12px;"
+alt="FarmMoni"/>
+</a>
+</p>
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=expo&logoColor=white"/></a>
+</p>
+<p align="center">
+<strong>React Native · Firebase · Expo</strong><br/>
+Fintech mobile solution for digital payments.
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">Enikin</h3>
+<p align="center">
+<a href="#">
+<img src="assets/images/enikin.png"
+style="max-width:100%; height:auto; border-radius:12px;"
+alt="Enikin"/>
+</a>
+</p>
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
+</p>
+<p align="center">
+<strong>React Native · Firebase</strong><br/>
+Scalable real-time cross-platform mobile system.
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">AI Embedded Workflow</h3>
+<p align="center">
+<a href="#">
+<img src="assets/images/ai-embedded.png"
+style="max-width:100%; height:auto; border-radius:12px;"
+alt="AI Embedded"/>
+</a>
+</p>
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=python&logoColor=white"/></a>
+</p>
+<p align="center">
+<strong>Python · TensorFlow · Embedded Systems</strong><br/>
+AI-driven automation integrated with hardware devices.
+</p>
+</td>
+</tr>
 </table>
+
+---
+<h2 align="center"> AI Workflows </h2>
+<table width="100%" cellspacing="0" cellpadding="14">
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">AI Workflow II</h3>
+<p align="center">
+<img src="assets/images/ai2.png"
+style="max-width:100%; height:auto; border-radius:12px;"/>
+</p>
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
+</p>
+<p align="center">
+<strong>Python · PyTorch</strong><br/>
+Deep learning training & inference pipeline.
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">AI Workflow III</h3>
+<p align="center">
+<img src="assets/images/ai3.png"
+style="max-width:100%; height:auto; border-radius:12px;"/>
+</p>
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
+</p>
+<p align="center">
+<strong>TensorFlow · ML Pipeline</strong><br/>
+Scalable model deployment workflow.
+</p>
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">ReactNative Mobile Projects</h2>
+
+<table width="100%" cellspacing="0" cellpadding="14">
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">FarmMoni Mobile</h3>
+<p align="center">
+<img src="assets/images/mobile1.png"
+style="max-width:100%; height:auto; border-radius:12px;"/>
+</p>
+
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=expo&logoColor=white"/></a>
+</p>
+
+<p align="center">
+<strong>React Native · Expo · Firebase</strong><br/>
+Production-ready cross-platform mobile application.
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">Enikin Mobile</h3>
+
+<p align="center">
+<img src="assets/images/mobile2.png"
+style="max-width:100%; height:auto; border-radius:12px;"/>
+</p>
+
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
+</p>
+
+<p align="center">
+<strong>React Native</strong><br/>
+Mobile-first architecture built for scale.
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<h2 align="center">Web3 & Blockchain</h2>
+
+<table width="100%" cellspacing="0" cellpadding="14">
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">Solana Rent Refund</h3>
+
+<p align="center">
+<img src="assets/images/web3-1.png"
+style="max-width:100%; height:auto; border-radius:12px;"/>
+</p>
+
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=solana&logoColor=white"/></a>
+</p>
+
+<p align="center">
+<strong>Solana · TypeScript</strong><br/>
+Blockchain-based rent recovery automation.
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">Multi-Chain NFT</h3>
+
+<p align="center">
+<img src="assets/images/web3-2.png"
+style="max-width:100%; height:auto; border-radius:12px;"/>
+</p>
+
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=ethereum&logoColor=white"/></a>
+</p>
+
+<p align="center">
+<strong>Solana · Ethereum</strong><br/>
+Cross-chain NFT minting platform.
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+<h2 align="center">Embedded Systems</h2>
+
+<table width="100%" cellspacing="0" cellpadding="14">
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">WhatsApp Automation</h3>
+
+<p align="center">
+<img src="assets/images/embed1.png"
+style="max-width:100%; height:auto; border-radius:12px;"/>
+</p>
+
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=raspberrypi&logoColor=white"/></a>
+</p>
+
+<p align="center">
+<strong>Python · Raspberry Pi</strong><br/>
+Hardware-based automation messaging system.
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">Auto Dustbin</h3>
+
+<p align="center">
+<img src="assets/images/embed2.png"
+style="max-width:100%; height:auto; border-radius:12px;"/>
+</p>
+
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=arduino&logoColor=white"/></a>
+</p>
+
+<p align="center">
+<strong>Arduino · C++</strong><br/>
+Sensor-driven smart waste management device.
+</p>
+
+</td>
+
+</tr>
+</table>
+
 
 
 <h1 align="center">Technologies</h1>
